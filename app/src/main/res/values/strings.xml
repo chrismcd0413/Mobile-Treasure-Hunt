@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Fort Worth Treasure Hunt</string>
+
+    <string name="clue_1_location_name">Fort Worth Stock Show &amp; Rodeo</string>
+    <string name="clue_1_clue">It\'s a great place to buy a steak. But don\'t plan on eating it there.</string>
+    <string name="clue_1_hint">If you drive by with your windows down, you\'ll think you were on a farm.</string>
+    <string name="clue_1_summary">This event has been a part of Fort Worth history since 1896. The Fort Worth Stock Show &amp; Rodeo is the biggest livestock sale barn in the US. Ranchers from all over the country make their way to Fort Worth each year for 3 weeks of live auctions, FFA competitions, and the infamous Rodeo.</string>
+    <string name="clue_1_lat">32.74453643072865</string>
+    <string name="clue_1_long">-97.36762700002386</string>
+
+    <string name="clue_2_location_name">Fort Worth Stockyards</string>
+    <string name="clue_2_clue">This place is home to the world\'s only twice-daily cattle drive.</string>
+    <string name="clue_2_hint">With it\'s history dating back to 1866, this western themed entertainment district is the #1 tourist destination in Fort Worth.</string>
+    <string name="clue_2_summary">It\'s history dates back to 1866 with the early cattle trade. The booming cattle industry gave way to Fort Worth\'s nickname, Cowtown! The Stockyards is a western themed entertainment district is the #1 tourist destination in Fort Worth. </string>
+    <string name="clue_2_lat">32.789792842076956</string>
+    <string name="clue_2_long">-97.34580087024614</string>
+
+    <string name="rules_header">Rules and Requirements</string>
+
+    <string name="rule_1_number">1</string>
+    <string name="rule_1_header">Permissions</string>
+    <string name="rule_1">GPS permissions are needed to verify you are at the correct location for each clue.</string>
+
+    <string name="rule_2_number">2</string>
+    <string name="rule_2_header">Start</string>
+    <string name="rule_2">Once you press start below, a timer will begin and you will be taken to your first clue. The faster you find the secret locations, the better!</string>
+
+    <string name="rule_3_number">3</string>
+    <string name="rule_3_header">Feeling Stuck?</string>
+    <string name="rule_3">Tap the Hint button to reveal another clue on where the location is. Be aware, you only get one hint so think hard!</string>
+
+    <string name="rule_4_number">4</string>
+    <string name="rule_4_header">Think you\'ve found it?</string>
+    <string name="rule_4">Smack that Found It! button. We\'ll check your location and see if you\'re there.</string>
+
+    <string name="rule_5_number">5</string>
+    <string name="rule_5_header">Not At The Right Place?</string>
+    <string name="rule_5">Dang! Well, we\'ll keep the timer going so think quick and move on to your next guess.</string>
+
+    <string name="rule_6_number">6</string>
+    <string name="rule_6_header">Found The Right Place?</string>
+    <string name="rule_6">Found the right place? Boom! If there are any more destinations, you\'ll be directed to the next clue. </string>
+
+    <string name="rule_7_number">7</string>
+    <string name="rule_7_header">Found All The Treasure?</string>
+    <string name="rule_7">Found all the treasure? Congratulations! You\'ve beat the game. We\'ll let you know how long it took you to finish. Once you\'re ready, you can navigate back to the home page and start again. </string>
+
+    <string name="action_button_text">Start</string>
+
+    <string name="found_it_button">Found It!</string>
+    <string name="next_clue_button">Next Clue</string>
+    <string name="home_button">Home</string>
+
+    <string name="dialog_title">Are You Sure?</string>
+    <string name="dialog_content">Listen… I get it, finding these landmarks can be a tall task. If you quit now, you\’ll lose your progress. This can\’t be undone.</string>
+    <string name="quit_button">Quit</string>
+    <string name="cancel_dialog_button">Cancel</string>
+
+    <string name="wrong_location_dialog_title">Wrong Location!</string>
+    <string name="wrong_location_dialog_content">Not quite there yet. Think back to the clues you have and try again</string>
+    <string name="wrong_location_dialog_confirm">Okay</string>
+
+    <string name="timer_header">Total Time Elapsed</string>
+
+    <string name="found_it_header">You found it!</string>
+    <string name="treasure_hunt_complete_header">Congratulations! You\'ve found all the treasure.</string>
+</resources>
