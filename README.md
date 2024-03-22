@@ -13,4 +13,5 @@ Mobile Treasure Hunt is a small geocaching-type game. It gives the users clues t
 
 ## Tech Stack
 1) Kotlin
-2) Android Studio
+2) Jetpack Compose
+3) Android Studio
