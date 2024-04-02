@@ -2,7 +2,9 @@
 Mobile Treasure Hunt is a small geocaching-type game. It gives the users clues to two popular destinations around Fort Worth. Once the user feels they've found the right place, we check their location and see if they're right. A timer keeps track of their progress as they work through the clues
 
 ## Video Walkthrough
-![Walkthrough of the app](/app/src/main/res/drawable/github_gif.gif)
+[<img src="https://img.youtube.com/vi/bE2BzCic6zU?si=fR7OnJ_MKJ74dzMO/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/bE2BzCic6zU?si=fR7OnJ_MKJ74dzMO)
+
 
 ## Key Features
 1) Dynamic Colors
